@@ -32,12 +32,13 @@ Even though there are numerous benefits that these solutions have, security thre
 
 ## NO MONKEY Security Matrix
 
-The NO MONKEY Security Matrix, combines elements of the security operational functions, defined by NIST, and IPAC model, created by NO MONKEY and explained below, into a functional graph. The Security Matrix serves as a starting point to:
+The NO MONKEY Security Matrix is used as a governance tool throughout the different projects under the CBAS-SAP. It combines elements of the security operational functions, defined by NIST, and IPAC model, defined by NO MONKEY, into a functional graph.
 
-- Visually show what areas within an organization can be improved
-- Identify responsibility and knowledge gaps that are aligned to the areas of the Security Matrix
+Benefits and the usage of the security matrix is listed under each project of the CBAS-SAP.
 
 ![](img/NM-Matrix.png)
+
+[CHECK IT OUT](NMSM.md)   -- *determine if to place it as a wiki, or a separate markdown page*
 
 ## Objectives
 

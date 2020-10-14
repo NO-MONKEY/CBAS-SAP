@@ -54,7 +54,7 @@ The CBAS - SAP Security Maturity Model (CBAS-SSMM) project allows organizations 
 
 With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), SAP Internet Research project aims to help organizations and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threats that might affect their SAP applications.
 
-[CHECK IT OUT](SAP_Internet_Research/SAP_Internet_Research.md)
+[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
 
 ## Contribution
 

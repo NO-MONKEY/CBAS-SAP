@@ -6,9 +6,14 @@
 
 > __CBAS-SAP__
 >> - Security Aptitude Assessment (SAA)
->> - Security Maturity Model  (SMM)
+>> - Security Maturity Model (SMM)
 >> - SAP Internet Research
 >>
+
+   ├ CBAS-SAP                    
+      ├── Security Aptitude Assessment (SAA)          
+      ├── Security Maturity Model (SMM)         
+      └── SAP Internet Research               
 
 
 ## Introduction

@@ -39,19 +39,6 @@ The NO MONKEY Security Matrix, combines elements of the security operational fun
 
 ![](img/NM-Matrix.png)
 
-
-### IPAC model
-
-NO MONKEY have come up with these four different security areas to focus the security topics to a core business application. The areas are:
-
-
-
-> - **Integration:** focus of different integration scenarios within systems themselves, as well as third-party tools integrating with a core business application environment, including proprietary as well as non-proprietary communication protocols and interfaces. Topics include secure architecture, security design, and general security operation concepts.
->
-> - **Platform:** consideration of the vulnerabilities, hardening, and configuration of the core business applications. Includes the review of security features and weaknesses in the software's operations, setup, and security management.
-> - **Access:** consideration of access control and user authorizations measures and methodologies of core business applications.
-> - **Customization:** consideration of the customization of core business applications - including change management, custom code, business customizing, legacy interfaces, and add-ons.
-
 ## Objectives
 
 While there are many enterprise solutions out there, SAP has been proven to dominate the ERP market. With that in mind, the initial CBAS project release focuses on SAP solutions (CBAS-SAP).

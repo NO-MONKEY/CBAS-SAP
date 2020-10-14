@@ -4,10 +4,10 @@
 
 ## CBAS Project Structure
 
-   ├ CBAS-SAP                    
-      ├── Security Aptitude Assessment (SAA)          
-      ├── Security Maturity Model (SMM)         
-      └── SAP Internet Research               
+   ├ __CBAS-SAP__                    
+      ├── *Security Aptitude Assessment (SAA)*          
+      ├── *Security Maturity Model (SMM)*         
+      └── *SAP Internet Research*               
 
 
 ## Introduction

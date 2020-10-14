@@ -40,12 +40,21 @@ Benefits and the usage of the security matrix is listed under each project of th
 
 [CHECK IT OUT](NMSM.md)   -- *determine if to place it as a wiki, or a separate markdown page*
 
-## Objectives
+## Security Aptitude Assessment
 
-While there are many enterprise solutions out there, SAP has been proven to dominate the ERP market. With that in mind, the initial CBAS project release focuses on SAP solutions (CBAS-SAP).
 
-The CBAS-SAP objectives and goals are defined in the [Objectives page](Objectives.md)
 
+## Security Maturity Model
+
+The CBAS - SAP Security Maturity Model (CBAS-SSMM) project allows organizations to determine their SAP security posture based on controls that are used to define a maturity level that organizations can maintain or adapt to. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
+
+[CHECK IT OUT](SSMM/README.md)
+
+## SAP Internet Research
+
+With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), SAP Internet Research project aims to help organizations and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threats that might affect their SAP applications.
+
+[CHECK IT OUT](SAP_Internet_Research/SAP_Internet_Research.md)
 
 ## Contribution
 

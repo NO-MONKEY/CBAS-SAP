@@ -6,8 +6,8 @@
 
    ├ __CBAS-SAP__                    
       ├── *[Security Aptitude Assessment](#security-aptitude-assessment) (SAA)*     
-      ├── *Security Maturity Model (SMM)*         
-      └── *SAP Internet Research*               
+      ├── *[Security Maturity Model](#security-maturity-model) (SMM)*         
+      └── *[SAP Internet Research](#sap-internet-research)*               
 
 
 ## Introduction

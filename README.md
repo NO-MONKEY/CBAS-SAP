@@ -42,13 +42,15 @@ Benefits and the usage of the security matrix is listed under each project of th
 
 ## Security Aptitude Assessment
 
+The CBAS - SAP Security Aptitude Assessment (CBAS-SSAA) project allows organizations to determine the skill and knowledge gaps required to secure SAP implementations in an organization.
 
+[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment)
 
 ## Security Maturity Model
 
 The CBAS - SAP Security Maturity Model (CBAS-SSMM) project allows organizations to determine their SAP security posture based on controls that are used to define a maturity level that organizations can maintain or adapt to. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
 
-[CHECK IT OUT](SSMM/README.md)
+[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel)
 
 ## SAP Internet Research
 

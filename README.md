@@ -11,7 +11,7 @@
 
 
 ## Introduction
-To allow organizations using enterprise business applications to determine an achievable, tailored-to approach defining actionable targets and measurable results, with the capability to scale by strengthening people, leveraging processes, and enhancing the use of tools. The Core Business Application Security (CBAS) project is designed to combine different industry standards and expertise from various security professionals to provide a comprehensive framework to align the measures for enterprise application security with the organization's security strategy. As a result, a framework is created to improve the security governance of the use of enterprise application technology.
+To allow organizations using enterprise business applications to determine an achievable, tailored-to approach defining actionable targets and measurable results, with the capability to scale by strengthening people, leveraging processes, and enhancing the use of tools. The Core Business Application Security (CBAS) project is designed to combine different industry standards and expertise from various security professionals to provide a comprehensive framework to align enterprise application security measures with the organization's security strategy. As a result, a framework is created to improve the security governance of enterprise application technology.
 
 
 ## Background
@@ -32,13 +32,13 @@ Even though there are numerous benefits that these solutions have, security thre
 
 ## NO MONKEY Security Matrix
 
-The NO MONKEY Security Matrix is used as a governance tool throughout the different projects under the CBAS-SAP. It combines elements of the security operational functions, defined by NIST, and IPAC model, defined by NO MONKEY, into a functional graph.
+The [NO MONKEY Security Matrix](No_MONKEY_Security_Matrix.md) is used as a governance tool throughout the different projects under the CBAS-SAP. It combines elements of the security operational functions, defined by NIST, and IPAC model, defined by NO MONKEY, into a functional graph.
 
 Benefits and the usage of the security matrix is listed under each project of the CBAS-SAP.
 
 ![](img/NM-Matrix.png)
 
-[CHECK IT OUT](NMSM.md)   -- *determine if to place it as a wiki, or a separate markdown page*
+[CHECK IT OUT](No_MONKEY_Security_Matrix.md)   
 
 ## Security Aptitude Assessment
 
@@ -48,13 +48,13 @@ The CBAS - SAP Security Aptitude Assessment (CBAS-SSAA) project allows organizat
 
 ## Security Maturity Model
 
-The CBAS - SAP Security Maturity Model (CBAS-SSMM) project allows organizations to determine their SAP security posture based on controls that are used to define a maturity level that organizations can maintain or adapt to. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
+The CBAS - SAP Security Maturity Model (CBAS-SSMM) project allows organizations to determine their SAP security posture based on controls used to define a maturity level that organizations can maintain or adapt to. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
 
 [CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel)
 
 ## SAP Internet Research
 
-With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), SAP Internet Research project aims to help organizations and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threats that might affect their SAP applications.
+With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), the SAP Internet Research project aims to help organizations and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threats that might affect their SAP applications.
 
 [CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
 

@@ -63,8 +63,8 @@ With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), the SAP
 See [CONTRIBUTING](CONTRIBUTING.md) section for more information.    
 
 ## Leaders
-- [Waseem Ajrab](mailto:waseem.ajrab@no-monkey.com)
-- [Marco Hammel](mailto:marco.hammel@no-monkey.com)
+- [Waseem Ajrab](mailto:cbas@advisory.no-monkey.com)
+- [Marco Hammel](mailto:cbas@advisory.no-monkey.com)
 
 ## Contributors
 

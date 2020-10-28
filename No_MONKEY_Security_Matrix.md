@@ -9,7 +9,6 @@ The NO MONKEY Security Matrix combines elements of the security operational func
 
 NO MONKEY has come up with the below four security areas to focus the security topics to a core business application. The areas are:
 
-
 > - **Integration:** Focuses on different integration scenarios within systems and third-party tools integrating with a core business application environment, including proprietary and non-proprietary communication protocols and interfaces. Topics include secure architecture, security design, and general security operation concepts.
 >
 > - **Platform:** Focuses on vulnerabilities, hardening, and configuration of the core business applications. It includes reviewing security features and weaknesses in software operations, setup, and security management.

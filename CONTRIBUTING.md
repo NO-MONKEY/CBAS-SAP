@@ -8,4 +8,4 @@ We have created and adopted different projects that cover people, processes, and
    ├── *[Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel) (SMM)*         
    └── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
 
-If you still want to help and contribute but not sure how, [contact us](mailto:waseem.ajrab@no-monkey.com) and we are happy to discuss it.
+If you still want to help and contribute but not sure how, [contact us](mailto:cbas@advisory.no-monkey.com) and we are happy to discuss it.

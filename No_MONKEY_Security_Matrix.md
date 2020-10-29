@@ -17,9 +17,6 @@ NO MONKEY has come up with the below four security areas to focus the security t
 >
 > - **Customization:** Focuses on the customization of core business applications, including change management, custom code, business customizing, legacy interfaces, and add-ons.
 
-## WIIFM (Whats In It For Me)
-
-The NO MONKEY Security matrix is designed to support teams in several ways: aligning security defenses across the entire matrix.
 
 ## Applicability
 

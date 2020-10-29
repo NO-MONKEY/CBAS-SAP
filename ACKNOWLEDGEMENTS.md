@@ -22,4 +22,4 @@ The SAP Internet Research project aims to help organizations and security profes
 
 - Joris van de Vis - [Protect4s](https://protect4s.com/) - Project Owner
 - Waseem Ajrab - [NO MONKEY](https://www.no-monkey.com/) - Contributor
-- Marco Hammel - [NO MONEKY](https://www.no-monkey.com/) - Contributor
+- Marco Hammel - [NO MONKEY](https://www.no-monkey.com/) - Contributor

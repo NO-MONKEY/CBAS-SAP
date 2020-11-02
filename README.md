@@ -68,7 +68,7 @@ See [CONTRIBUTING](CONTRIBUTING.md) section for more information.
 
 ## Contributors
 
-- Joris van de Vis - [SAP Internet Research Project](SAP_Internet_Research.md)
+- Joris van de Vis - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
 
 ## Communication channel
 

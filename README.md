@@ -36,7 +36,9 @@ The [NO MONKEY Security Matrix](No_MONKEY_Security_Matrix.md) is used as a gover
 
 Benefits and the usage of the security matrix is listed under each project of the CBAS-SAP.
 
-![](img/NM_Matrix.png)
+## ![](img/NM_Matrix.png)
+
+<img src="img/NM_Matrix.png" width="850" height="400"/>
 
 [CHECK IT OUT](No_MONKEY_Security_Matrix.md)   
 
